@@ -362,6 +362,23 @@ a:hover {
     z-index: 2;
 }
 
+.citation{
+    font-family: "helvetica";
+    font-weight: 500;
+    font-style: italic;
+    color: #575757;
+    font-size: 20px;
+    margin: 0;
+}
+
+.citation-author{
+    font-family: "helvetica";
+    font-weight:100;
+    color: #575757;
+    font-size: 20px;
+    margin: 0;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
